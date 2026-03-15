@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9C9F2721-F8B3-307D-4AC7-E0AAE1944BC7}|TP_MODUL4_103022400132\\TP_MODUL4_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\tp_modul4_103022400132\\tp_modul4_103022400132\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C9F2721-F8B3-307D-4AC7-E0AAE1944BC7}|TP_MODUL4_103022400132\\TP_MODUL4_103022400132.csproj|solutionrelative:tp_modul4_103022400132\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9F2721-F8B3-307D-4AC7-E0AAE1944BC7}|TP_MODUL4_103022400132\\TP_MODUL4_103022400132.csproj|d:\\journey\\kuliah\\all semester\\semester 4\\konstruksi perangkat lunak\\visual studio\\tp_modul4_103022400132\\tp_modul4_103022400132\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9F2721-F8B3-307D-4AC7-E0AAE1944BC7}|TP_MODUL4_103022400132\\TP_MODUL4_103022400132.csproj|solutionrelative:tp_modul4_103022400132\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL4_103022400132\\TP_MODUL4_103022400132\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022400132\\DoorMachine.cs",
+              "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL4_103022400132\\TP_MODUL4_103022400132\\DoorMachine.cs",
+              "RelativeToolTip": "TP_MODUL4_103022400132\\DoorMachine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T12:26:35.825Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "TP_MODUL4_103022400132\\KodePos.cs",
               "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL4_103022400132\\TP_MODUL4_103022400132\\KodePos.cs",
               "RelativeToolTip": "TP_MODUL4_103022400132\\KodePos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T12:20:33.136Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "TP_MODUL4_103022400132\\Program.cs",
               "ToolTip": "D:\\JOURNEY\\KULIAH\\ALL SEMESTER\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\Visual Studio\\TP_MODUL4_103022400132\\TP_MODUL4_103022400132\\Program.cs",
               "RelativeToolTip": "TP_MODUL4_103022400132\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA6wD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T12:13:33.161Z",
               "EditorCaption": ""

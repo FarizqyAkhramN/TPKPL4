@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class KodePos
 {
-    private static Dictionary<string, string> tabelKodePos = new Dictionary<string, string>
+    private Dictionary<string, string> tabelKodePos = new Dictionary<string, string>
     {
         {"Batununggal", "40266"},
         {"Kujangsari",  "40287"},
@@ -14,15 +14,24 @@ public class KodePos
         {"Margasari",   "40286"},
         {"Sekejati",    "40286"},
         {"Kebonwaru",   "40272"},
-        {"Maleer",      "40274"}
+        {"Maleer",      "40274"},
+        {"Samoja",      "40273"}
     };
-
     public string getKodePos(string kelurahan)
     {
         if (tabelKodePos.ContainsKey(kelurahan))
-        {
             return tabelKodePos[kelurahan];
-        }
         return "Data tidak ditemukan";
+    }
+    public string getKelurahan(string kode)
+    {
+        foreach (var entry in tabelKodePos)
+        {
+            if (entry.Value == kode)
+            {
+                return entry.Key;
+            }
+        }
+        return "Kode Pos tidak ditemukan";
     }
 }
